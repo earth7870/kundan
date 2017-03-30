@@ -1,0 +1,16 @@
+body{
+        background-image: url(20.jpg);
+
+
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%; 
+    border: 2px solid;
+    border-color: darkblue;
+    border-right: 5%;
+    padding: 45%;
+    border-spacing: 10%;
+    background-image:image();
+
+   }
